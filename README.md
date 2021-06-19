@@ -1,9 +1,7 @@
 # Structure-web-pages-with-HTML
 
 will reflect in GitHub using your new Git-flow skills
-Git add .
-Git commit -m"comment"
-Git push origin main
+Git add . ,Git commit -m"comment" ,Git push origin main
 
 ## Wireframe and Design
 
